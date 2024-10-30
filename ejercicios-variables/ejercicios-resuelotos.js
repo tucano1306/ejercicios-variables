@@ -11,6 +11,14 @@ secondEmail = myEmail;
 // 4. ¿Qué valor tiene la segunda variable?
 console.log(secondEmail); // Salida: "tucano0109@gmail.com"
 
+//Explico: let porque:
+
+//Permite declarar variables sin inicializarlas.
+//Respeta el ámbito de bloque, lo que mejora la seguridad del código.
+//Evita los problemas de hoisting y alcance que puede causar var.
+
+
+
 /*1.
 
   ¿Cuál es el resultado de las siguientes expresiones? 
